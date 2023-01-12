@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arif</h1>
+<h1 align="center">Hey 👋, I'm Arif</h1>
 <h3 align="center">A passionate full stack developer supporting remotely</h3>
 
 - 🔭 I’m currently working on **Form builder, Datalogz Dashboard, Method Admin Dashboard**
@@ -6,6 +6,7 @@
 - 📝 I regularly write articles on [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
 - 📫 How to reach me **a.rifislamm.cse@gmail.com**
+- 📢 My Availability Time: **12AM to 2PM EST**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
