@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋, I'm Arif</h2>
 <h3 align="center">A passionate full stack developer supporting remotely</h3>
 
-- 🔭 I’m currently working on 4 Projects **Ingen Systems-Form builder, Datalogz Application, Method Admin Dashboard, LevelFlight Dashboard**
+- 🔭 I’m currently working on 4 Projects- **Ingen Systems-Form builder, Datalogz Application, Method Admin Dashboard, LevelFlight Dashboard**
 
 - 📝 I regularly write articles on [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
