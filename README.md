@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋, I'm Arif</h2>
 <h3 align="center">A passionate full stack developer supporting remotely</h3>
 
-- 🔭 I love to make my hand dirty with RactJS, VueJs, Laravel, Svelte, and Django
+- 🔭 I love to make my hand dirty with ReactJS, VueJs, Laravel, Svelte, and Django
 
 - 📝 I regularly write articles on [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
