@@ -1,5 +1,5 @@
 <h2 align="center">Hey 👋, I'm Arif</h2>
-<h3 align="center">A passionate full stack developer supporting remotely</h3>
+<h3 align="center">A passionate full stack developer working remotely</h3>
 
 - 🔭 I love to make my hand dirty with ReactJS, VueJs, Laravel, Svelte, and Django
 
