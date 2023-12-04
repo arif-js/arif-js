@@ -12,8 +12,6 @@
 <p align="left">
 <a target="_blank" href="https://linkedin.com/in/arif-ul-islam-716517149"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif-ul-islam-716517149" height="30" width="40" /></a>
 <a target="_blank" href="https://medium.com/@arifulislam-ron"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arifulislam-ron" height="30" width="40" /></a>
-<a target="_blank" href="https://www.upwork.com/freelancers/~013f4351d6e205ef12"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/upwork-2752038-2284855.png" alt="arifulislam-ron" height="30" width="30" /></a>
-<a target="_blank" href="https://www.fiverr.com/arifulislam496"><img align="center" src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="arifulislam496" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I have worked with</h3>
