@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋, I'm Arif</h2>
 <h3 align="center">A passionate full stack developer working remotely</h3>
 
-- 🔭 I love to make my hand dirty with Javascript, Typescript, PHP, Python, with all Frontend and Backend Stuff
+- 🔭 I'm all about getting down and dirty with JavaScript, TypeScript, PHP, Python—you name it—both on the frontend and backend. It's my playground, and I own it with swagger.
 
 - 📝 I regularly write articles on [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
