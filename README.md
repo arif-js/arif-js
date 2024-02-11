@@ -3,7 +3,7 @@
 
 - 🔭 I'm all about getting down and dirty with JavaScript, TypeScript, PHP, Python—you name it—both on the frontend and backend. It's my playground, and I own it with swagger.
 
-- 📝 I regularly write articles on [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
+- 📝 I post articles more often here [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
 - 📫 How to reach me? **a.rifislamm.cse@gmail.com**
 - 📢 My Availability Time: **12AM to 2PM EST**
