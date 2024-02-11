@@ -5,7 +5,7 @@
 
 - 📝 I post articles more often here [https://medium.com/@arifulislam-ron](https://medium.com/@arifulislam-ron)
 
-- 📫 How to reach me? **a.rifislamm.cse@gmail.com**
+- 📫 Reach out to me: **a.rifislamm.cse@gmail.com**
 - 📢 My Availability Time: **12AM to 2PM EST**
 
 <h3 align="left">Profiles</h3>
