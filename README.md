@@ -5,11 +5,11 @@
 <p align="center">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=arif-js&style=flat-square&color=blue" alt=""></p>
-<h1 align="center">Hey there, this is Arif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h3 align="center">Hey there, this is Arif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend, cloud and database for building web applications.
 - 🌱 Technical Content Writer at .
