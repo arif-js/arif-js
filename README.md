@@ -9,8 +9,6 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer.
-
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend, cloud and database for building web applications.
 - 🌱 Technical Content Writer at https://medium.com/@arifulislam-ron.
 
