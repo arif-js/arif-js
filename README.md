@@ -12,8 +12,7 @@
 I am a Full Stack Developer.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend, cloud and database for building web applications.
-- 🌱 Technical Content Writer at .
-- 📫 How to reach me: &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arif-ul-islam-716517149/)
+- 🌱 Technical Content Writer at https://medium.com/@arifulislam-ron.
 
 ---
 
