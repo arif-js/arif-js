@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="[https://pk.linkedin.com/in/umair-mukhtar-828510153](https://linkedin.com/in/arif-ul-islam-716517149)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/arif-ul-islam-716517149/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 
@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Technical Content Writer at .
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Arif Ul Islam-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arif-ul-islam-716517149)
+- 📫 How to reach me: &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arif-ul-islam-716517149/)
 
 ---
 
