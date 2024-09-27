@@ -72,5 +72,3 @@
 </p>
 
 ---
-
-This updated profile adds a cleaner design, better structure, and more engaging content. I emphasized your contributions, tech stack, and made the blog posts section easier to follow. Feel free to customize further!
