@@ -24,6 +24,7 @@
 - 🌱 Always eager to learn and explore new technologies and frameworks.
 - 💡 Passionate about sharing knowledge through my blogs and tech articles on [Medium](https://medium.com/@arifulislam-ron).
 - 🚀 Constantly improving and refining my skills to solve real-world problems using technology.
+- ☁️ AWS Certified **Solutions Architect Associate**, **Developer Associate**, and **Cloud Practitioner** <img src="https://img.icons8.com/color/20/000000/amazon-web-services.png" alt="aws-icon"/> 
 
 ---
 
