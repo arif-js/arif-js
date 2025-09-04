@@ -65,6 +65,6 @@
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-*   **LinkedIn:** [Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arif-ul-i-716517149/))
+*   **LinkedIn:** [Profile](https://www.linkedin.com/in/arif-ul-i-716517149/)
 *   **Email:** a.rifislamm.cse@gmail.com
 
