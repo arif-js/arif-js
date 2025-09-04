@@ -1,74 +1,70 @@
----
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+## 🚀 Top-Rated Full-Stack Developer | 2x AWS Certified | Specialist in AI & Scalable Web Applications
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arif-ul-islam-716517149/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://medium.com/@arifulislam-ron"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
-</p>
+👋 Hi, I'm Arif. I don't just write code; I build **scalable, high-performance assets** for your business. With over **7 years of experience** and **100+ projects delivered**, I specialize in creating full-stack solutions that are robust, secure, and built to grow.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=arif-js&style=flat-square&color=blue" alt="Profile Views"></p>
-
-<h3 align="center">Hello World, I'm Arif! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
-
-<p align="center">
-  <em>A passionate Software Engineer, constantly learning and contributing to the world of technology</em>
-</p>
+**My Mantra:** *Your vision, my code. Let's create something extraordinary.*
 
 ---
 
-### 👨‍💻 &nbsp;About Me :
+## 🛠️ Technical Expertise
 
-- 🔭 I’m currently working as a Software Engineer, specializing in full-stack development, cloud solutions, and databases.
-- 🌱 Always eager to learn and explore new technologies and frameworks.
-- 💡 Passionate about sharing knowledge through my blogs and tech articles on [Medium](https://medium.com/@arifulislam-ron).
-- 🚀 Constantly improving and refining my skills to solve real-world problems using technology.
-- ☁️ AWS Certified **Solutions Architect Associate**, **Developer Associate**, and **Cloud Practitioner** <img src="https://img.icons8.com/color/20/000000/amazon-web-services.png" alt="aws-icon"/> 
+### **Backend Development**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta_Llama-FFB300?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge)
 
 ---
 
-### 🛠️ &nbsp;Tech Stack :
+## 🌟 How I Add Value
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, Java, PHP
-- 🌐 **Frontend:** React, VUE, NEXT, NUXT, HTML5, CSS3, Sass
-- ⚙️ **Backend:** Node.js, Express, Django, Spring Boot
-- 🛢 **Databases:** PostgreSQL, MongoDB, MySQL
-- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
-- 🔧 **Tools:** Git, Webpack, Jenkins, Visual Studio Code, JIRA
-- 🧑‍💻 **Others:** RESTful APIs, Microservices Architecture, GraphQL
+- **✅ End-to-End Development:** From robust backend APIs to engaging, responsive frontends, I handle the entire development lifecycle.
+- **✅ Scalable AWS Architecture:** I design and implement secure, cost-effective, and scalable cloud solutions using services like Lambda, Amplify, API Gateway, and CloudFront.
+- **✅ AI Integration:** I build smart features and automate workflows by integrating AI models (GPT, Llama, Claude) and tools like n8n and Make.com.
+- **✅ Data Management & Visualization:** I create interactive dashboards with real-time data, charts, and advanced tables to turn data into insights.
 
 ---
 
-### 🔥 &nbsp;My GitHub Stats :
-
+## 📊 GitHub Stats
 <p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=arif-js&theme=dark&background=000000">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=arif-js&theme=dark&background=000000" alt="GitHub Streak" />
+  <a href="https://github.com/arif-js">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-js&theme=default&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-js&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-</p>
-
 ---
 
-### 📖 &nbsp;Latest Blog Posts :
+## 📫 Let's Connect!
 
-- [How to be A Pragmatic Programmer: Part One (1)](https://medium.com/brainstation23/how-to-be-a-pragmatic-programmer-part-one-1-5d48ae31a49e)
-- [More Blog Posts](https://medium.com/@arifulislam-ron)
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
----
+*   **LinkedIn:** [Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arif-ul-i-716517149/))
+*   **Email:** a.rifislamm.cse@gmail.com
 
-### 💬 &nbsp;Feel Free to Connect :
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arif-ul-islam-716517149/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://github.com/arif-js"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
-  <a href="https://medium.com/@arifulislam-ron"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
-</p>
-
----
