@@ -2,8 +2,6 @@
 
 👋 Hi, I'm Arif. I don't just write code; I build **scalable, high-performance assets** for your business. With over **7 years of experience** and **100+ projects delivered**, I specialize in creating full-stack solutions that are robust, secure, and built to grow.
 
-**My Mantra:** *Your vision, my code. Let's create something extraordinary.*
-
 ---
 
 ## 🛠️ Technical Expertise
