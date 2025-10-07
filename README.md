@@ -63,5 +63,4 @@
 ## 📫 Let's Connect!
 
 *   **LinkedIn:** [Profile](https://www.linkedin.com/in/arif-ul-i-716517149/)
-*   **Email:** a.rifislamm.cse@gmail.com
 
