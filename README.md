@@ -1,6 +1,6 @@
 ## 🚀 Full-Stack Developer | 2x AWS Certified | Specialist in AI & Scalable Web Applications
 
-👋 Hi! I'm Arif, a full-stack engineer who transforms ideas into scalable, high-performance digital products. With 7+ years of experience and over 100 successful projects, I build robust, secure systems that help businesses grow and adapt seamlessly.
+👋 Hi, I’m Arif. I design and build full-stack solutions that scale — fast, secure, and reliable. With 7+ years of experience and more than 100 completed projects, I turn complex ideas into smooth, production-ready systems.
 ---
 
 ## 🛠️ Technical Expertise
