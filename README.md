@@ -1,6 +1,6 @@
 ## 🚀 Full-Stack Developer | 4x AWS Certified | Specialist in AI & Scalable Web Applications
 
-👋 Hi, I’m Arif. I design and build full-stack solutions that scale fast, secure, and reliable.df
+👋 Hi, I’m Arif. I design and build full-stack solutions that scale fast, secure, and reliable.
 
 ---
 
