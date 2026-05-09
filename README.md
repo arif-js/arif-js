@@ -1,66 +1,38 @@
-## 🚀 Full-Stack Developer | 4x AWS Certified | Specialist in AI & Scalable Web Applications
+# Hi, I'm Arif 👋
 
-👋 Hi, I’m Arif. I design and build full-stack solutions that scale fast, secure, and reliable.
+Senior Full Stack Developer with 8+ years building production-grade web applications from SaaS dashboards and AI-powered platforms to data engineering pipelines.
 
----
-
-## 🛠️ Technical Expertise
-
-### **Backend Development**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### **AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Llama](https://img.shields.io/badge/Meta_Llama-FFB300?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge)
+I work across the full stack: **React / Next.js / TypeScript** on the frontend, **FastAPI / Node.js** on the backend, and **Python / Apache Airflow / dbt** on the data side. I care a lot about clean architecture, maintainable code, and shipping things that actually work.
 
 ---
 
-## 🌟 How I Add Value
+### 🛠 Core Stack
 
-- **✅ End-to-End Development:** From robust backend APIs to engaging, responsive frontends, I handle the entire development lifecycle.
-- **✅ Scalable AWS Architecture:** I design and implement secure, cost-effective, and scalable cloud solutions using services like Lambda, Amplify, API Gateway, and CloudFront.
-- **✅ AI Integration:** I build smart features and automate workflows by integrating AI models (GPT, Llama, Claude) and tools like n8n and Make.com.
-- **✅ Data Management & Visualization:** I create interactive dashboards with real-time data, charts, and advanced tables to turn data into insights.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/arif-js">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-js&theme=default&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=arif-js&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
-
-*   **LinkedIn:** [Profile](https://www.linkedin.com/in/arif-ul-i-716517149/)
-
+<p align="center">
+  <a href="https://tinyurl.com/arif-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://tinyurl.com/arif-medium"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  &nbsp;
+</p>
