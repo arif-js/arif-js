@@ -1,9 +1,6 @@
 # Hi, I'm Arif 👋
 
-Senior Full Stack Developer with 8+ years building production-grade web applications from SaaS dashboards and AI-powered platforms to data engineering pipelines.
-
-I work across the full stack: **React / Next.js / TypeScript** on the frontend, **FastAPI / Node.js** on the backend, and **Python / Apache Airflow / dbt** on the data side. I care a lot about clean architecture, maintainable code, and shipping things that actually work.
-
+Senior Full Stack Developer building production-grade web applications from SaaS dashboards and AI-powered platforms to data engineering pipelines.
 ---
 
 ### 🛠 Core Stack
