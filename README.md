@@ -1,8 +1,7 @@
 # Hi, I'm Arif 👋
 
 <p> Senior Full Stack Developer building production-grade web applications from SaaS dashboards and AI-powered platforms to data engineering pipelines. </p>
-
-Visit me here: [arifcodes.com](https://www.arifcodes.com/)
+ [arifcodes.com](https://www.arifcodes.com/)
 
 ### 🛠 Core Stack
 
