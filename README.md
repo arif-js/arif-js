@@ -1,6 +1,6 @@
 # Hi, I'm Arif 👋
 
-Full Stack Developer who loves to own features, shape product decisions, and make quick improvements iteratively. 
+Focus is to own features, shape product decisions, and make quick improvements iteratively.
 
 [arifcodes.com](https://www.arifcodes.com)
 
