@@ -1,15 +1,12 @@
-## Hi, I'm Arif 👋
+## Hello, I am Arif 
 
-Founding engineer for four years, building a data platform end to end.
-Before that, junior to senior in four years, on systems that served 100,000+ people.
+I'm Arif, a product engineer for eight years. I spent the last four as a founding engineer on data and AI products, owning stuff from the first product call to the last line of code. I spend nearly as much time on the write up as on the build.
 
-What I actually do: own a feature from the product call to production, work async across time zones, and write up what I learn afterwards.
+I have [a blog](https://www.arifcodes.com/logs) where I write about what I build and what broke along the way. Before the product work there were [four research papers](https://www.researchgate.net/profile/Arif-Islam), mostly machine learning applied to medical diagnosis.
 
-Along the way: took an AI SaaS from 0 to 1,000+ users across 10+ models, built a RAG pipeline with LLM-as-judge evaluation, and shipped 180+ freelance projects, ramping up on an unfamiliar codebase each time.
+I use AI heavily when I build. [This repo](https://github.com/arif-js/leetcode) is where I make sure I still can without AI: [LeetCode problems](https://leetcode.com/u/arif_-_ul_-/) solved by hand, no assistance.
 
-Also four peer reviewed papers, 98 citations.
-
-Writing: [arifcodes.com/logs](https://www.arifcodes.com/logs)
+[Find me on LinkedIn](https://www.linkedin.com/in/arif-ul-islam-716517149/) to keep up with my work and my latest posts.
 
 ---
 
