@@ -1,8 +1,15 @@
-# Hi, I'm Arif 👋
+Hi, I'm Arif
 
-Focus is to own features, shape product decisions, and make quick improvements iteratively.
+Founding engineer for four years, building a data platform end to end.
+Before that, junior to senior in four years, on systems that served 100,000+ people.
 
-[arifcodes.com](https://www.arifcodes.com)
+What I actually do: own a feature from the product call to production, work async across time zones, and write up what I learn afterwards.
+
+Along the way: took an AI SaaS from 0 to 1,000+ users across 10+ models, built a RAG pipeline with LLM-as-judge evaluation, and shipped 180+ freelance projects, ramping up on an unfamiliar codebase each time.
+
+Also four peer reviewed papers, 98 citations.
+
+Writing: [arifcodes.com/logs](https://www.arifcodes.com/logs)
 
 ---
 
