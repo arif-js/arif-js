@@ -1,4 +1,4 @@
-Hi, I'm Arif
+## Hi, I'm Arif 👋
 
 Founding engineer for four years, building a data platform end to end.
 Before that, junior to senior in four years, on systems that served 100,000+ people.
